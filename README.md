@@ -67,4 +67,4 @@ Le programme est entièrement contenu dans `start.s` et organisé en fonctions d
 
 ## Auteur
 
-Projet réalisé par **[@Lucas TREIBER-LUSTIG](https://github.com/lucastreiber/)** et **[@tom SCHWARTZ](https://github.com/T0M0R0W)
+Projet réalisé par **[@Lucas TREIBER-LUSTIG](https://github.com/lucastreiber/)** et **[@tom SCHWARTZ](https://github.com/T0M0R0W)**
